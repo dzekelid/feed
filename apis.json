@@ -1,0 +1,299 @@
+{
+	"name": "Streadata.io API Gallery - Feed",
+	"description": "This is a repository of feed APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/feed.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://feed.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Urban Airship",
+			"x-api-slug": "urban-airship",
+			"description": "A market-leading mobile app engagement, mobile analytics, mobile data integration and mobile wallet marketing solution.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/75-urban-airship.jpg",
+			"humanURL": "http://urbanairship.com/",
+			"baseURL": "https://go.urbanairship.com//api/",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/urban-airship/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Reverb",
+			"x-api-slug": "reverb",
+			"description": "Reverb&#8217;s mission is to connect people with meaningful content.Reverb was created to find and connect the rich associations between words, ideas, content, and people. Through our products, we enhance broader knowledge around favorite topics by surfacing interesting information readers might not uncover on their own. We make tools for content understanding at every level from the single word on up. Wordnik: Get a full view of any word you???re interested in, with definitions, example sentences, related words, tweets from Twitter, pictures from Flickr, and much more.Reverb for Publishers: Reverb for Publishers brings relevant content to web audiences and surfaces additional content for publishers.Reverb for Developers: Reverb is committed to the open-source community and is proudly contributing infrastructure software to power applications and enterprises both small and gigantic. Our involvement with the Wordnik API, Scalatra, Swagger and Atmosphere is detailed on our site.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/145_logo.png",
+			"humanURL": "https://helloreverb.com/app",
+			"baseURL": "https://api.reverb.com//api",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/reverb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Facebook",
+			"x-api-slug": "facebook",
+			"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/196-facebook.jpg",
+			"humanURL": "http:///business",
+			"baseURL": "https:///",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/facebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Instructure",
+			"x-api-slug": "instructure",
+			"description": "Instructure makes software that makes smarter people. Products include Canvas LMS, Bridge and Canvas Network.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/820-instructure.jpg",
+			"humanURL": "http://instructure.com",
+			"baseURL": "https://canvas.instructure.com//api/v1",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/instructure/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Meetup",
+			"x-api-slug": "meetup",
+			"description": "Find Meetups so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg",
+			"humanURL": "http://meetup.com",
+			"baseURL": "https:///",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/meetup/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CommaFeed",
+			"x-api-slug": "commafeed",
+			"description": "Bloat free feed reader.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/commafeed-logo.png",
+			"humanURL": "https://www.commafeed.com",
+			"baseURL": "https:///",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/commafeed/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Simple Email Service",
+			"x-api-slug": "aws-simple-email-service",
+			"description": "Amazon Simple Email Service (Amazon SES) is a cost-effective email service built on the reliable and scalable infrastructure that Amazon.com developed to serve its own customer base. With Amazon SES, you can send and receive email with no required minimum commitments &ndash; you pay as you go, and you only pay for what you use.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png",
+			"humanURL": "https://aws.amazon.com/ses/",
+			"baseURL": ":///",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/aws-simple-email-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Content API for Shopping",
+			"x-api-slug": "google-content-api-for-shopping",
+			"description": "API allowing retailers to manage their product feed content programmatically. Providing item-level data quality information: See if an item was disapproved because a landing page URL isn&rsquo;t working on a mobile device or if unique product identifiers are inaccurate. Faster pricing and availability updates: Ensure customers have the latest price-points and know what&rsquo;s in-stock before they click through to your site. More integration options: The newer API supports a broader choice of programming languages and data formats.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-shopping-API1.jpg",
+			"humanURL": "https://developers.google.com/shopping-content/v2/quickstart",
+			"baseURL": "://www.googleapis.com//content/v2",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/google-content-api-for-shopping/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TransitFeeds",
+			"x-api-slug": "transitfeeds",
+			"description": "The best source of open official public transit data. Maintained by @qzervaas + others",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26209-rta-service-alerts.jpg",
+			"humanURL": "https://transitfeeds.com",
+			"baseURL": "https://api.transitfeeds.com//v1",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/transitfeeds/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Steem",
+			"x-api-slug": "steem",
+			"description": "A new way for publishers to monetize their online content and community, based on battle-tested blockchain technology.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-steemit.jpg",
+			"humanURL": "http://steemit.com",
+			"baseURL": "https://api.steemjs.com//",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/steem/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Actility",
+			"x-api-slug": "actility",
+			"description": "Actility is the leader in low power wide area (LoRaWAN and 3GPP) network connectivity management for the Internet of Things: the ThingPark platform",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg",
+			"humanURL": "https://www.actility.com",
+			"baseURL": "https://dx-api.thingpark.com//maker/v011/api",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/actility/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Trello",
+			"x-api-slug": "trello",
+			"description": "Trusted by millions, Trello is the visual collaboration tool that creates a shared perspective on any project. Trello&rsquo;s boards, lists and cards enable you to organize and prioritize your personal and work life in a fun, flexible and rewarding way.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png",
+			"humanURL": "http://trello.com",
+			"baseURL": "https://trello.com//1",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/trello/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Logicbroker",
+			"x-api-slug": "logicbroker",
+			"description": "Logicbroker provides beautiful technology that unites brands, retailers, and the systems they rely on. Harness the latest in cloud and supply chain automation technology with unrivaled speed and integration flexibility. We craft the connections that enable digital commerce.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logicbroker-logo.png",
+			"humanURL": "https://www.logicbroker.com/",
+			"baseURL": "https://stage.commerceapi.io//",
+			"tags": "Feed",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/logicbroker/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Feed",
+	"include": [
+		{
+			"name": "Urban Airship",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/urban-airship/apis.yaml"
+		},
+		{
+			"name": "Reverb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/reverb/apis.yaml"
+		},
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/facebook/apis.yaml"
+		},
+		{
+			"name": "Instructure",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/instructure/apis.yaml"
+		},
+		{
+			"name": "Meetup",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/meetup/apis.yaml"
+		},
+		{
+			"name": "CommaFeed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/commafeed/apis.yaml"
+		},
+		{
+			"name": "AWS Simple Email Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/aws-simple-email-service/apis.yaml"
+		},
+		{
+			"name": "Google Content API for Shopping",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/google-content-api-for-shopping/apis.yaml"
+		},
+		{
+			"name": "TransitFeeds",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/transitfeeds/apis.yaml"
+		},
+		{
+			"name": "Steem",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/steem/apis.yaml"
+		},
+		{
+			"name": "Actility",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/actility/apis.yaml"
+		},
+		{
+			"name": "Trello",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/trello/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "Logicbroker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/logicbroker/apis.yaml"
+		}
+	]
+}

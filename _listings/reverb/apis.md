@@ -17,11 +17,22 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Feed
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/reverb/apis.md
 specificationVersion: "0.14"
 apis:
+- name: reverb - Get My Feed
+  x-api-slug: myfeed-get
+  description: Get listings from your feed
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/145_logo.png
+  humanURL: https://helloreverb.com/app
+  baseURL: https://api.reverb.com//api
+  tags: Dictionary, Spelling, API LIfeyclessss, Stack Network, Commerce, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/reverb/myfeed-get-openapi.md
 - name: reverb - Get My Feed Customize
   x-api-slug: myfeedcustomize-get
   description: get your feed customization options
@@ -35,6 +46,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/reverb/myfeedcustomize-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/reverb/myfeedcustomize-get-openapi.md
+- name: reverb - Get My Feed Gr
+  x-api-slug: myfeedgrid-get
+  description: Get my feed gr.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/145_logo.png
+  humanURL: https://helloreverb.com/app
+  baseURL: https://api.reverb.com//api
+  tags: Dictionary, Spelling, API LIfeyclessss, Stack Network, Commerce, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/reverb/myfeedgrid-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://respoke.api.gallery.streamdata.io

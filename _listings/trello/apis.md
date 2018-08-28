@@ -9,11 +9,21 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Feed
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/trello/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Trello - Put Boards Preferences Calendar Feed Enabled
+  x-api-slug: boardsidboardprefscalendarfeedenabled-put
+  description: Put boards preferences calendar feed enabled.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/trello/boardsidboardprefscalendarfeedenabled-put-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://transport.for.london.unified.api.gallery.streamdata.io

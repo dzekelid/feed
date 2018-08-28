@@ -7,11 +7,23 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-acti
 x-kinRank: "7"
 x-alexaRank: "637591"
 tags: Feed
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/actility/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: ThingPark DX Location API - Feed request
+  x-api-slug: feeds-post
+  description: Feeds the platform with geolocation data. Data is then dispatched and
+    processed based on available information.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/feed/master/_listings/actility/feeds-post-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.actility.com/blog/feed/
